@@ -3,8 +3,8 @@ import java.net.Socket;
 
 public class Client {
 
-    private static final String SERVER_ADDRESS = "192.168.1.153";
-    private static final int SERVER_PORT = 8080;
+    private static final String SERVER_ADDRESS = "100.36.119.115";
+    private static final int SERVER_PORT = 443;
 
     public static void main(String[] args) {
         System.out.println("Connecting to the server...");
